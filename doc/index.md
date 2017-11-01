@@ -1,6 +1,8 @@
 # probit Labs
 
-[`Jakob Schnell <jakob.schnell@univie.ac.at>`](mailto:jakob.schnell@univie.ac.at)
+[`J Schnell <probitlabs@protonmail.com>`](mailto:probitlabs@protonmail.com)
+
+>   Biodegradatable.
 
 ##### Actions:
 
