@@ -1,1 +1,0 @@
-base/var/law/COVENANT.md

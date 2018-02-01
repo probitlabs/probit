@@ -1,3 +1,6 @@
 [submodule "base"]
 	path = base
 	url = https://github.com/ismo-js/base
+[submodule "law"]
+	path = law
+	url = https://github.com/probitlabs/law.git
